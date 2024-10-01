@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QueueProbs
+comment1.params=
+comment1.target=QueueProbs()
+comment2.params=nums
+comment2.target=java.util.Queue\ evenFirst(java.util.Queue)
+comment3.params=nums
+comment3.target=boolean\ numPalindrome(java.util.Queue)
+comment4.params=n
+comment4.target=java.util.Stack\ Sieve(int)
+numComments=5

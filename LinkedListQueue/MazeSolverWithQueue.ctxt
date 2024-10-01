@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MazeSolverWithQueue
+comment0.text=\n\ Write\ a\ description\ of\ class\ MazeSolverQueue\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=maze
+comment1.target=MazeSolverWithQueue(Maze)
+comment2.params=
+comment2.target=void\ makeEmpty()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=s
+comment4.target=void\ add(Square)
+comment5.params=
+comment5.target=void\ remove()
+comment6.params=
+comment6.target=Square\ next()
+numComments=7

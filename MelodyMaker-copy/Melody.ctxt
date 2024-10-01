@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Melody
+comment1.params=song
+comment1.target=Melody(java.util.Queue)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Melody\n
+comment2.params=
+comment2.target=java.util.Queue\ cloneNotes()
+comment3.params=
+comment3.target=double\ getTotalDuration()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=Tempo
+comment5.target=void\ changeTempo(double)
+comment6.params=
+comment6.target=void\ reverse()
+comment7.params=other
+comment7.target=void\ append(Melody)
+comment8.params=
+comment8.target=void\ play()
+comment9.params=
+comment9.target=java.util.Queue\ getNotes()
+numComments=10

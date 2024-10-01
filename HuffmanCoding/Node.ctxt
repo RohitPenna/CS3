@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=t
+comment1.target=int\ compareTo(Node)
+comment2.params=value\ freq
+comment2.target=Node(char,\ int)
+comment3.params=freq
+comment3.target=Node(int)
+comment4.params=
+comment4.target=boolean\ Leaf()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

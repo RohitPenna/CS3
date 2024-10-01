@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WordLadder1
+comment1.params=
+comment1.target=WordLadder1()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=start\ comp
+comment3.target=int\ stringCompare(java.lang.String,\ java.lang.String)
+comment4.params=x\ end
+comment4.target=boolean\ isFinished(java.util.Stack,\ java.lang.String)
+numComments=5

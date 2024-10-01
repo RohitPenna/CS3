@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=StackADT
+comment0.text=\n\ An\ interface\ that\ describes\ a\ stack\ abstract\ data\ type\n
+comment1.params=item
+comment1.target=void\ push(Square)
+comment1.text=\n\ Add\ an\ item\ onto\ the\ stack\n\ @param\ item\ the\ data\ item\ to\ add\ (of\ type\ T)\n
+comment2.params=
+comment2.target=Square\ pop()
+comment2.text=\n\ Remove\ the\ top\ item\ from\ the\ stack\n\ @return\ the\ top\ item\ in\ the\ stack\n
+comment3.params=
+comment3.target=Square\ peek()
+comment3.text=\n\ Returns\ but\ does\ not\ remove\ the\ top\ item\ from\ the\ stack\n\ @return\ the\ top\ item\ in\ the\ stack\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\n\ Return\ how\ many\ items\ are\ in\ the\ stack\n\ @return\ the\ number\ of\ items\ in\ the\ stack\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\n\ Determine\ if\ the\ stack\ is\ empty\n\ @return\ true\ if\ the\ size\ is\ 0,\ false\ otherwise\n
+comment6.params=
+comment6.target=void\ clear()
+comment6.text=\n\ Remove\ all\ elements\ from\ the\ data\ structure\n
+numComments=7
