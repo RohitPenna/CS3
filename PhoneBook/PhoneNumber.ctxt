@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PhoneNumber
+comment0.text=\n\ Write\ a\ description\ of\ class\ PhoneNumber\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x
+comment1.target=PhoneNumber(int)
+numComments=2

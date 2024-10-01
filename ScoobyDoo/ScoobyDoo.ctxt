@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ScoobyDoo
+comment0.text=\n\ Write\ a\ description\ of\ class\ ScoobyDoo\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=Filename
+comment1.target=ScoobyDoo(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ScoobyDoo\n
+comment2.params=line
+comment2.target=void\ create(java.lang.String)
+comment3.params=path
+comment3.target=void\ check(java.lang.String)
+comment4.params=start\ end\ x
+comment4.target=void\ checkHelp(java.lang.String,\ java.lang.String,\ java.util.HashSet)
+comment5.params=
+comment5.target=void\ reset()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

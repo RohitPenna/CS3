@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BinaryMaze
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fileName
+comment2.target=BinaryMaze(java.lang.String)
+comment3.params=rows\ columns
+comment3.target=void\ constructMaze(int,\ int)
+comment4.params=r\ c
+comment4.target=boolean\ isValid(int,\ int)
+numComments=5

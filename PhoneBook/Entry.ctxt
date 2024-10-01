@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Entry
+comment0.text=\n\ Write\ a\ description\ of\ class\ Entry\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=p\ x
+comment1.target=Entry(java.lang.Object,\ java.lang.Object)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Entry\n
+comment2.params=x
+comment2.target=boolean\ equals(Entry)
+numComments=3
