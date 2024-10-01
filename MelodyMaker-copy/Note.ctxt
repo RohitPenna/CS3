@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Note
+comment1.params=duration\ note\ repeat
+comment1.target=Note(double,\ Pitch,\ boolean)
+comment10.params=
+comment10.target=void\ play()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ getDuration()
+comment3.params=
+comment3.target=int\ getOctave()
+comment4.params=
+comment4.target=Pitch\ getPitch()
+comment5.params=d
+comment5.target=void\ setDuration(double)
+comment6.params=octave
+comment6.target=void\ setOctave(int)
+comment7.params=pitch
+comment7.target=void\ setPitch(Pitch)
+comment8.params=repeat
+comment8.target=void\ setRepeat(boolean)
+comment9.params=
+comment9.target=boolean\ isRepeat()
+numComments=12

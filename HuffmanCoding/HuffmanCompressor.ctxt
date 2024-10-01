@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HuffmanCompressor
+comment1.params=filename
+comment1.target=void\ compress(java.lang.String)
+comment2.params=codeFile\ fileName
+comment2.target=void\ expand(java.lang.String,\ java.lang.String)
+comment3.params=filename\ ext
+comment3.target=java.lang.String\ changeExt(java.lang.String,\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=QueueADT
+comment1.params=item
+comment1.target=void\ offer(java.lang.Object)
+comment1.text=\n\ Add\ an\ item\ to\ the\ queue\n\ @param\ item\ the\ data\ item\ to\ add\ (of\ type\ T)\n
+comment2.params=
+comment2.target=java.lang.Object\ poll()
+comment2.text=\n\ Remove\ the\ front\ item\ from\ the\ queue\n\ @return\ the\ front\ item\ in\ the\ queue\n
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment3.text=\n\ Return\ the\ front\ item\ in\ the\ queue\ without\ removing\ it\n\ @return\ the\ front\ item\ in\ the\ queue\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\n\ Find\ how\ many\ items\ are\ in\ the\ queue\n\ @return\ the\ number\ of\ items\ in\ the\ queue\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\n\ Determine\ if\ the\ queue\ is\ empty\n\ @return\ true\ if\ the\ size\ is\ 0,\ false\ otherwise\n
+comment6.params=
+comment6.target=void\ clear()
+comment6.text=\n\ Clear\ out\ the\ data\ structure\n
+numComments=7
