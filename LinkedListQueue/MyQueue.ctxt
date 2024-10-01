@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MyQueue
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyQueue\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MyQueue()
+comment2.params=nums
+comment2.target=MyQueue(java.lang.Object[])
+comment3.params=item
+comment3.target=void\ offer(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ poll()
+comment4.text=\n\ Remove\ the\ front\ item\ from\ the\ queue\n\ @return\ the\ front\ item\ in\ the\ queue\n
+comment5.params=
+comment5.target=java.lang.Object\ peek()
+comment5.text=\n\ Return\ the\ front\ item\ in\ the\ queue\ without\ removing\ it\n\ @return\ the\ front\ item\ in\ the\ queue\n
+comment6.params=
+comment6.target=int\ size()
+comment6.text=\n\ Find\ how\ many\ items\ are\ in\ the\ queue\n\ @return\ the\ number\ of\ items\ in\ the\ queue\n
+comment7.params=
+comment7.target=boolean\ isEmpty()
+comment7.text=\n\ Determine\ if\ the\ queue\ is\ empty\n\ @return\ true\ if\ the\ size\ is\ 0,\ false\ otherwise\n
+comment8.params=
+comment8.target=void\ clear()
+comment8.text=\n\ Clear\ out\ the\ data\ structure\n
+numComments=9
